@@ -26,6 +26,8 @@ common:
     url: https://www.envistaco.com
   - type: Brands
     url: https://www.envistaco.com/our-companies
+  - type: LLMsTxt
+    url: https://envistaco.com/llms.txt
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
